@@ -1,0 +1,37 @@
+_repo: The-Turkish-Jesteror-The-Pleasantries-of-Cogia-Nasr-Eddin-Effendi_16244
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+covers:
+- cover_type: archival
+  image_path: 16244-h/images/cover.jpg
+description: This is a very rare work by George Borrow, English eccentric and polyglot.
+  It's a translation of a collection of short stories about Cogia Nasr Eddin Effendi
+  - many of which show the Cogia's wisdom.
+gutenberg_issued: '2005-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16244'
+language: en
+language_note: Translated from the Turkish by George Borrow.
+production_note: EBook transcribed from the 1924 Norwich edition, Vol. 16, Miscellanies,
+  by David Price, email ccx074@coventry.ac.uk
+publication_note: "IPSWICH:\r\nW. WEBBER, DIAL LANE,\r\n1884."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Turkish wit and humor -- Translations into English'
+- !lcsh 'Nasreddin Hoca (Legendary character)'
+title: 'The Turkish Jester
+
+  or, The Pleasantries of Cogia Nasr Eddin Effendi'
+url: http://www.gutenberg.org/ebooks/16244
