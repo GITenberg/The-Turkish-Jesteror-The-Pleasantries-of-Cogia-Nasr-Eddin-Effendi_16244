@@ -15,6 +15,8 @@ covers:
 description: This is a very rare work by George Borrow, English eccentric and polyglot.
   It's a translation of a collection of short stories about Cogia Nasr Eddin Effendi
   - many of which show the Cogia's wisdom.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16244#The-Turkish-Jesteror-The-Pleasantries-of-Cogia-Nasr-Eddin-Effendi
 gutenberg_issued: '2005-07-08'
 gutenberg_type: Text
 identifiers:
